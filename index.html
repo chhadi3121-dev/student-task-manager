@@ -1,9 +1,29 @@
-<form id="task-form">
-  <label for="task-title">Task Title</label>
-  <input type="text" id="task-title" placeholder="Enter task title" required>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Student Task Manager</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>Student Task Manager</h1>
 
-  <label for="task-description">Description</label>
-  <textarea id="task-description" placeholder="Enter task description"></textarea>
+  <form id="task-form">
+    <label for="task-title">Task Title</label>
+    <input type="text" id="task-title" placeholder="Enter task title" required>
 
-  <button type="submit">Add Task</button>
-</form>
+    <label for="task-description">Description</label>
+    <textarea id="task-description" placeholder="Enter task description"></textarea>
+
+    <button type="submit">Add Task</button>
+  </form>
+
+  <input type="text" id="search-input" class="search-box" placeholder="Search tasks...">
+
+  <div id="task-list"></div>
+  <p id="no-results" hidden>No tasks found</p>
+
+  <script src="script.js"></script>
+</body>
+</html>
