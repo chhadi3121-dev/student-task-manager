@@ -233,3 +233,41 @@ cd student-task-manager
 
 - **Abdul Hadi** ([@chhadi3121-dev](https://github.com/chhadi3121-dev)): Project setup, task form, task search, Issues, release and tagging.
 - **Farhan Sajid** ([@farhan-sajid-6](https://github.com/farhan-sajid-6)): Task style, code reviews, merge-conflict, Pull Request approval/merge.
+
+# FINAL SUBMISSION CHECKLIST
+
+- [x] Git installed and configured
+
+- [x] Local repository initialized
+
+- [x] Multiple meaningful commits created
+
+- [x] Branches created and used
+
+- [x] GitHub repository created and connected
+
+- [x] Feature branches pushed
+
+- [x] At least 3 GitHub Issues created
+
+- [x] At least 3 Pull Requests completed
+
+- [x] Code reviews completed
+
+- [x] At least one merge conflict created and resolved
+
+- [x] git stash demonstrated
+
+- [x] git restore demonstrated
+
+- [x] git reset demonstrated
+
+- [x] Git tag v1.0.0 created
+- [x] GitHub Release created
+- [x] Both students contributed
+- [x] All required screenshots inserted
+- [x] Screenshots have captions and explanations
+- [x] Final application screenshot included
+- [x] Final GitHub screenshot included
+- [x] Final Git history screenshot included
+- [x] Final questions answered
